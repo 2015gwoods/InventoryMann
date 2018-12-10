@@ -1,0 +1,2 @@
+﻿Sword;weapon;1d6;
+Wand;weapon;1d6;

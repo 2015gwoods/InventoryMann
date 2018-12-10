@@ -1,0 +1,16 @@
+C:\Users\woods104\Desktop\InventoryMann\InventoryMann\obj\Debug\InventoryMann.csprojResolveAssemblyReference.cache
+C:\Users\woods104\Desktop\InventoryMann\InventoryMann\obj\Debug\InventoryMann.csproj.CoreCompileInputs.cache
+C:\Users\woods104\Desktop\InventoryMann\InventoryMann\bin\Debug\InventoryMann.exe.config
+C:\Users\woods104\Desktop\InventoryMann\InventoryMann\bin\Debug\InventoryMann.exe
+C:\Users\woods104\Desktop\InventoryMann\InventoryMann\bin\Debug\InventoryMann.pdb
+C:\Users\woods104\Desktop\InventoryMann\InventoryMann\obj\Debug\InventoryMann.exe
+C:\Users\woods104\Desktop\InventoryMann\InventoryMann\obj\Debug\InventoryMann.pdb
+C:\Users\Altangy\Desktop\InventoryMann\InventoryMann\bin\Debug\InventoryMann.exe.config
+C:\Users\Altangy\Desktop\InventoryMann\InventoryMann\bin\Debug\InventoryMann.exe
+C:\Users\Altangy\Desktop\InventoryMann\InventoryMann\bin\Debug\InventoryMann.pdb
+C:\Users\Altangy\Desktop\InventoryMann\InventoryMann\obj\Debug\InventoryMann.csprojAssemblyReference.cache
+C:\Users\Altangy\Desktop\InventoryMann\InventoryMann\obj\Debug\InventoryMann.csproj.CoreCompileInputs.cache
+C:\Users\Altangy\Desktop\InventoryMann\InventoryMann\obj\Debug\InventoryMann.exe
+C:\Users\Altangy\Desktop\InventoryMann\InventoryMann\obj\Debug\InventoryMann.pdb
+C:\Users\Altangy\Desktop\InventoryMann\InventoryMann\bin\Debug\data\databases\Test.txt
+C:\Users\Altangy\Desktop\InventoryMann\InventoryMann\bin\Debug\data\inventories\default\placeholder.txt
