@@ -44,7 +44,6 @@ namespace InventoryMann
                 //Dangerous Commands: Will wipe data
                 Console.ForegroundColor = ConsoleColor.Red;
                 Console.WriteLine("X)Dump Active Database");
-                Console.WriteLine("Z)Dump Active Inventory");
                 Console.WriteLine("Q) Quit");
 
                 if (isUserIncorrect)//When the user makes a wrong entry
@@ -87,8 +86,6 @@ namespace InventoryMann
                         break;
                     case "x":DisplayDumpDatabase(database);
                         break;
-                   case "z":DisplayDumpInventory(userInventory);
-                       break;
                     case "q":isUsing = false;
                         break;
                     default:
@@ -445,7 +442,7 @@ namespace InventoryMann
                     isValid = false;
                 }
             } while (!isValid);
-
+            DisplayContinue();
         }
 
         #endregion
@@ -480,7 +477,7 @@ namespace InventoryMann
             {
                 foreach (var item in database)
                 {
-                    if (name == item.Name)
+                    if (name.ToLower() == item.Name.ToLower())
                     {
                         targetItem = item;
                         isItemFound = true;
